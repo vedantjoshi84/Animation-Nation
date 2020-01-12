@@ -1460,6 +1460,13 @@ let cards = [
 	author: "Alara Joel",
 	githubLink: "https://github.com/stealthman22"
 }
+{
+  artName: "Vedant",
+  pageLink: "./Art/Vedant/index.html",
+  imageLink: "./Art/Vedant/trance.gif",
+  author: "Vedant",
+  githubLink: "https://github.com/vedantjoshi84"
+}
 ];
 
 // +--------------------------------------------------------------------------------+
